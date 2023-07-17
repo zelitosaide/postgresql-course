@@ -1,7 +1,7 @@
 import pg from "pg";
 
 const client = new pg.Client({
-  port: 5432,
+  // port: 5432,
   database: "mydb",
   user: "zas"
 });
