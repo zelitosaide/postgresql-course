@@ -1,2 +1,2 @@
-## To run: 
+## Run: 
 - npm start
